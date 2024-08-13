@@ -1,4 +1,4 @@
-## Hi there, I'm Henrique 👋
+## Olá meu nome é Vinicius 👋
 
 <div>
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=vinicius-gomes-cruz&show_icons=true&theme=github_dark&hide_border=true"/> 
